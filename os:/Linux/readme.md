@@ -3,6 +3,10 @@ sch: https://www.google.com/search?q=star+citizen+linux
 # source:
 - https://lutris.net/games/star-citizen/
 
+# Solution:
+## use Bottles
+https://www.reddit.com/r/starcitizen/comments/11rr1dq/comment/jca4txr/
+
 # Guide:
 - [Install Star Citizen on Linux](https://youtu.be/6ZbeN4zVYyE)
 
