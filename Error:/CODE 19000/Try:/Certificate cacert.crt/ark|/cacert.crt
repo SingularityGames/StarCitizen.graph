@@ -1,0 +1,168 @@
+CONNECTED(000001C4)
+---
+Certificate chain
+ 0 s:CN=*.test1.cloudimperiumgames.com
+   i:C=US, O=Let's Encrypt, CN=R10
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Apr  1 09:24:41 2025 GMT; NotAfter: Jun 30 09:24:40 2025 GMT
+-----BEGIN CERTIFICATE-----
+MIIFPDCCBCSgAwIBAgISBhmuSY1esPYTAdOQxE2SjaDfMA0GCSqGSIb3DQEBCwUA
+MDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBFbmNyeXB0MQwwCgYDVQQD
+EwNSMTAwHhcNMjUwNDAxMDkyNDQxWhcNMjUwNjMwMDkyNDQwWjApMScwJQYDVQQD
+DB4qLnRlc3QxLmNsb3VkaW1wZXJpdW1nYW1lcy5jb20wggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDDeDCXHM1tg1g77mrB/Oo6dRpiGDBS1suTCUlLL3MG
+J5V9IApMAJeQ9emas7vKD61iULYaUpvfcbeeHY3K5hOJXoXwRyMS71OtjHdJmld7
+Ye7WzjvtmRWkpWblCq60FxRMFWe9N4FcRnSSUaUZMEBGVtmvGJE2A32jl/LOtVct
+O39g2JWUrKvgZTGhbefndxoMiY9fTC03vbPfRYto5ynBS1Gzho9WuLEBcvr3fun6
+s0dwxrL9cYOHhyxtvb44q0m5FkZ2R4xW5PzzTwxlhUqxkczqrjp/o/Z2orVhZzVF
+68oKL2nzTJQeMEfFdbjbjygt2u+50k4vitLZ7Rfg6yhbAgMBAAGjggJSMIICTjAO
+BgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMAwG
+A1UdEwEB/wQCMAAwHQYDVR0OBBYEFFB0DCbGmz0wuZpFHj6h7/JWjk2RMB8GA1Ud
+IwQYMBaAFLu8w0el5LypxsOkcgwQjaI14cjoMFcGCCsGAQUFBwEBBEswSTAiBggr
+BgEFBQcwAYYWaHR0cDovL3IxMC5vLmxlbmNyLm9yZzAjBggrBgEFBQcwAoYXaHR0
+cDovL3IxMC5pLmxlbmNyLm9yZy8wKQYDVR0RBCIwIIIeKi50ZXN0MS5jbG91ZGlt
+cGVyaXVtZ2FtZXMuY29tMBMGA1UdIAQMMAowCAYGZ4EMAQIBMC4GA1UdHwQnMCUw
+I6AhoB+GHWh0dHA6Ly9yMTAuYy5sZW5jci5vcmcvOTYuY3JsMIIBBAYKKwYBBAHW
+eQIEAgSB9QSB8gDwAHYAouMK5EXvva2bfjjtR2d3U9eCW4SU1yteGyzEuVCkR+cA
+AAGV8OBizwAABAMARzBFAiEA7PPEhScN/8FzU17MqoxqUI0egX1oEiVS8OXRdLb4
+LPoCIFfKVLYHYbD38vnG7rELBi5DnBUzlOgl3QRTaxOZD9PNAHYAzxFW7tUufK/z
+h1vZaS6b6RpxZ0qwF+ysAdJbd87MOwgAAAGV8OByowAABAMARzBFAiAsTnejmLP8
+sm7sq9/LmLNpdjasmXYWPZFtps50hbZJgwIhAOa/ih3NihFuUzKRpmzLhbkxh7w3
+xaoIOrEB9s4BIPgcMA0GCSqGSIb3DQEBCwUAA4IBAQBzSoTbD8GWqsP3i4dQQbCP
+pxRighqz2x/3X5fEFxlH6jf0WHbhQ7s/OkwV9M2ClBDxfA25fkMuJ+YPSEndIKg8
+WnBtgaAhAgf1PJw1eQhLIKNaervk//F1AlEA1ObQaoGDDkeApwYB/7visKnKz11q
+SZQF7hio+iPzFTTUnzHiPFWFrnA1+ibWD16Dvrd3sIk0yxulxcmSF76wwopCCecc
+w3ZJq8M26FOIdMJM6/AOLTisum+OY+fP8zTbIpQpL/jPMrglgXDD1VjWdQ+te6m6
+YFpT4L6GU2KqI3poaC1IpEQPLgdGZi5RorfBNBMj+tVv215OOStFyQKEpJYSmkqD
+-----END CERTIFICATE-----
+ 1 s:C=US, O=Let's Encrypt, CN=R10
+   i:C=US, O=Internet Security Research Group, CN=ISRG Root X1
+   a:PKEY: rsaEncryption, 2048 (bit); sigalg: RSA-SHA256
+   v:NotBefore: Mar 13 00:00:00 2024 GMT; NotAfter: Mar 12 23:59:59 2027 GMT
+-----BEGIN CERTIFICATE-----
+MIIFBTCCAu2gAwIBAgIQS6hSk/eaL6JzBkuoBI110DANBgkqhkiG9w0BAQsFADBP
+MQswCQYDVQQGEwJVUzEpMCcGA1UEChMgSW50ZXJuZXQgU2VjdXJpdHkgUmVzZWFy
+Y2ggR3JvdXAxFTATBgNVBAMTDElTUkcgUm9vdCBYMTAeFw0yNDAzMTMwMDAwMDBa
+Fw0yNzAzMTIyMzU5NTlaMDMxCzAJBgNVBAYTAlVTMRYwFAYDVQQKEw1MZXQncyBF
+bmNyeXB0MQwwCgYDVQQDEwNSMTAwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEK
+AoIBAQDPV+XmxFQS7bRH/sknWHZGUCiMHT6I3wWd1bUYKb3dtVq/+vbOo76vACFL
+YlpaPAEvxVgD9on/jhFD68G14BQHlo9vH9fnuoE5CXVlt8KvGFs3Jijno/QHK20a
+/6tYvJWuQP/py1fEtVt/eA0YYbwX51TGu0mRzW4Y0YCF7qZlNrx06rxQTOr8IfM4
+FpOUurDTazgGzRYSespSdcitdrLCnF2YRVxvYXvGLe48E1KGAdlX5jgc3421H5KR
+mudKHMxFqHJV8LDmowfs/acbZp4/SItxhHFYyTr6717yW0QrPHTnj7JHwQdqzZq3
+DZb3EoEmUVQK7GH29/Xi8orIlQ2NAgMBAAGjgfgwgfUwDgYDVR0PAQH/BAQDAgGG
+MB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDATASBgNVHRMBAf8ECDAGAQH/
+AgEAMB0GA1UdDgQWBBS7vMNHpeS8qcbDpHIMEI2iNeHI6DAfBgNVHSMEGDAWgBR5
+tFnme7bl5AFzgAiIyBpY9umbbjAyBggrBgEFBQcBAQQmMCQwIgYIKwYBBQUHMAKG
+Fmh0dHA6Ly94MS5pLmxlbmNyLm9yZy8wEwYDVR0gBAwwCjAIBgZngQwBAgEwJwYD
+VR0fBCAwHjAcoBqgGIYWaHR0cDovL3gxLmMubGVuY3Iub3JnLzANBgkqhkiG9w0B
+AQsFAAOCAgEAkrHnQTfreZ2B5s3iJeE6IOmQRJWjgVzPw139vaBw1bGWKCIL0vIo
+zwzn1OZDjCQiHcFCktEJr59L9MhwTyAWsVrdAfYf+B9haxQnsHKNY67u4s5Lzzfd
+u6PUzeetUK29v+PsPmI2cJkxp+iN3epi4hKu9ZzUPSwMqtCceb7qPVxEbpYxY1p9
+1n5PJKBLBX9eb9LU6l8zSxPWV7bK3lG4XaMJgnT9x3ies7msFtpKK5bDtotij/l0
+GaKeA97pb5uwD9KgWvaFXMIEt8jVTjLEvwRdvCn294GPDF08U8lAkIv7tghluaQh
+1QnlE4SEN4LOECj8dsIGJXpGUk3aU3KkJz9icKy+aUgA+2cP21uh6NcDIS3XyfaZ
+QjmDQ993ChII8SXWupQZVBiIpcWO4RqZk3lr7Bz5MUCwzDIA359e57SSq5CCkY0N
+4B6Vulk7LktfwrdGNVI5BsC9qqxSwSKgRJeZ9wygIaehbHFHFhcBaMDKpiZlBHyz
+rsnnlFXCb5s8HKn5LsUgGvB24L7sGNZP2CX7dhHov+YhD+jozLW2p9W4959Bz2Ei
+RmqDtmiXLnzqTpXbI+suyCsohKRg6Un0RC47+cpiVwHiXZAW+cn8eiNIjqbVgXLx
+KPpdzvvtTnOPlC7SQZSYmdunr3Bf9b77AiC/ZidstK36dRILKz7OA54=
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=CN=*.test1.cloudimperiumgames.com
+issuer=C=US, O=Let's Encrypt, CN=R10
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 3128 bytes and written 448 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+This TLS version forbids renegotiation.
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 7B25CC7D056EBAB8C6355B5D5F85EC2AAD404E0F3A12BE2F00727CC81A047CF8
+    Session-ID-ctx: 
+    Resumption PSK: B48A7B9D41F9B5DE9EE477ED7503A7423BBD89EF0DAA28DDEF1C9437FD8C636981B9DD94F53FDE0C7EADC01181F2D266
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 172799 (seconds)
+    TLS session ticket:
+    0000 - 23 3d fc 02 b5 7d 22 43-1a 92 b0 c9 21 b8 89 ef   #=...}"C....!...
+    0010 - a2 05 73 83 e3 80 95 0b-e6 af 7b 63 64 a3 3d ad   ..s.......{cd.=.
+    0020 - 0e 1a eb e5 cd ae 5f b9-01 d3 dd 8c 00 05 de 26   ......_........&
+    0030 - ad 35 bc d1 00 fb d9 96-ad 94 8c 23 11 34 fe 78   .5.........#.4.x
+    0040 - 98 26 18 7e 35 84 94 da-a3 ef b2 c1 28 38 e7 35   .&.~5.......(8.5
+    0050 - 50 86 bb 72 67 e6 95 44-ff 23 18 1b 7b a3 12 18   P..rg..D.#..{...
+    0060 - c9 a2 93 fc cd 5d 67 01-e3 92 f4 03 c1 7f 9c b3   .....]g.........
+    0070 - b0 9d 33 94 6f bf af b8-1d 36 57 d0 34 60 08 94   ..3.o....6W.4`..
+    0080 - 75 a2 58 02 8a 32 75 c0-cc 4d 88 04 5e fc 34 b2   u.X..2u..M..^.4.
+    0090 - 11 7b bc b5 45 22 2a 9f-2b ca 88 7e 85 d9 87 c4   .{..E"*.+..~....
+    00a0 - 18 33 5b 30 2f 7e 8b f8-81 85 98 b3 31 72 2b 34   .3[0/~......1r+4
+    00b0 - 5c f2 03 b6 d5 5d f3 d8-bc 6f 02 5d f8 8f c7 07   \....]...o.]....
+    00c0 - ab 36 8e 5c 2f 24 06 97-af b4 fd ed b2 b7 40 8a   .6.\/$........@.
+
+    Start Time: 1743514099
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 474CCBE228D1FC274AA0CAFC2D4BF8B05DF7B24A8F39E018CC1BA8AFA8E3F125
+    Session-ID-ctx: 
+    Resumption PSK: 8DB491FFFA487699397E77C49C354CFDE7E8295234E065E7D2A275049D3985DA82366EED360D221FD0CCC47C0574B453
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 172799 (seconds)
+    TLS session ticket:
+    0000 - 23 3d fc 02 b5 7d 22 43-1a 92 b0 c9 21 b8 89 ef   #=...}"C....!...
+    0010 - 82 8a 14 b8 21 10 d4 7e-8a 47 e4 fe 2f 34 0f 42   ....!..~.G../4.B
+    0020 - 11 14 2c 42 f0 ef 1c d6-4b 1a c4 90 45 7f 85 ee   ..,B....K...E...
+    0030 - dc bf de 3b ab 57 e8 5a-1f 60 19 5b 5c 9f aa b5   ...;.W.Z.`.[\...
+    0040 - 8a 88 21 d2 f4 11 c9 06-ef 0d df ac c5 09 31 04   ..!...........1.
+    0050 - ac 95 48 2d b1 e3 17 ae-7b 75 b4 30 65 98 d7 26   ..H-....{u.0e..&
+    0060 - ff b5 dd 67 4c 09 5d 2f-25 0c c5 a5 8d 1d 76 ee   ...gL.]/%.....v.
+    0070 - 05 a3 57 7f 09 80 98 ab-3a 2c d8 56 a1 80 53 27   ..W.....:,.V..S'
+    0080 - d0 7b 7a 8c 49 8c e6 e0-c9 45 73 fc eb ce 41 4d   .{z.I....Es...AM
+    0090 - 8a 20 98 02 46 f3 c1 21-e2 7c 97 fe 51 ba 5f e4   . ..F..!.|..Q._.
+    00a0 - 51 88 fb d5 4a 3e 7b cc-17 7a 2d 59 ac 0f 9d 53   Q...J>{..z-Y...S
+    00b0 - f5 90 93 04 5c 88 40 b1-e6 16 de d7 f6 63 f9 9a   ....\.@......c..
+    00c0 - 28 5f 8f 12 2f e9 de 00-78 93 e3 5d 8d f8 54 09   (_../...x..]..T.
+
+    Start Time: 1743514099
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+HTTP/1.1 400 Bad Request
+content-length: 11
+content-type: text/plain
+date: Tue, 01 Apr 2025 13:27:44 GMT
+server: istio-envoy
+connection: close
+
+Bad Request
