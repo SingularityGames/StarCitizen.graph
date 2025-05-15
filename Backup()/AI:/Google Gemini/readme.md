@@ -1,3 +1,5 @@
+query: https://www.google.com/search?q=star+citizen+backup+install
+
 """
 AI Overview
 Learn more
